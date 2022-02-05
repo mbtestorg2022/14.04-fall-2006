@@ -29,12 +29,57 @@ Grading and Requirements
 
 The final grade in the course will be based on the following weights:
 
-| ACTIVITIES | WEIGHTS |
-| --- | --- |
-| Midterm Exam | 1/3 |
-| Final Exam | 1/2 |
-| Homeworks | 1/6 |
-| Project | w/k 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+WEIGHTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Midterm Exam
+{{< tdclose >}}
+{{< tdopen >}}
+1/3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Exam
+{{< tdclose >}}
+{{< tdopen >}}
+1/2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homeworks
+{{< tdclose >}}
+{{< tdopen >}}
+1/6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Project
+{{< tdclose >}}
+{{< tdopen >}}
+w/k
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Homeworks
 ---------
@@ -46,26 +91,192 @@ All issues with rescheduling exams have to be resolved beforehand.
 Calendar
 --------
 
-| SES # | TOPICS |
-| --- | --- |
-| 1 | Introduction and Preview |
-| {{< td-colspan 2 >}}**Consumer Theory**{{< /td-colspan >}} ||
-| 2 | Choice, Preferences, Utility |
-| 3 | Demand, Revealed Preferences, Comparative Statics |
-| 4 | Consumer Surplus, Aggregation |
-| 5 | Variations to the Basic Choice Model (Time, Uncertainty) |
-| {{< td-colspan 2 >}}**Producer Theory**{{< /td-colspan >}} ||
-| 6 | Technology, Profit Maximization, Cost Minimization |
-| 7 | Supply, Aggregation |
-| {{< td-colspan 2 >}}**Markets**{{< /td-colspan >}} ||
-| 8 | Monopoly |
-| 9 | Oligopoly and Game Theory |
-| 10 | Walrasian Equilibrium |
-| {{< td-colspan 2 >}}**Market Failures**{{< /td-colspan >}} ||
-| 11 | Externalities |
-| 12 | Public Goods |
-| 13 | Small Number of Agents, Nash Bargaining |
-| {{< td-colspan 2 >}}**Asymmetric Information**{{< /td-colspan >}} ||
-| 14 | Adverse Selection, Moral Hazard, Principal-Agent Model |
-| 15 | Auction Design |
-| 16 | Voting and Other Applications
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction and Preview
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Consumer Theory**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Choice, Preferences, Utility
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Demand, Revealed Preferences, Comparative Statics
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Consumer Surplus, Aggregation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Variations to the Basic Choice Model (Time, Uncertainty)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Producer Theory**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Technology, Profit Maximization, Cost Minimization
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Supply, Aggregation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Markets**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Monopoly
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Oligopoly and Game Theory
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Walrasian Equilibrium
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Market Failures**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Externalities
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Public Goods
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Small Number of Agents, Nash Bargaining
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Asymmetric Information**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Adverse Selection, Moral Hazard, Principal-Agent Model
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Auction Design
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Voting and Other Applications
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
